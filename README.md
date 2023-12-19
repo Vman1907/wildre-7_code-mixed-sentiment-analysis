@@ -8,7 +8,7 @@ For further information on this initiative, please refer to http://sanskrit.jnu.
 
 # Shard Task Dates
 ```
-Dec 22, 2023: [Registration](https://forms.gle/HVRK1W1hHqBwtgpu6)
+Dec 22, 2023: Registration- https://forms.gle/HVRK1W1hHqBwtgpu6
 Jan 09, 2024: Train and Validation Data set Release [to get the data please register]
 Feb 15, 2024: Test Set Release
 Feb 23, 2024: System Submission Due
