@@ -6,7 +6,7 @@ Keeping a record of the challenges of processing closely related languages in co
 
 For further information on this initiative, please refer to http://sanskrit.jnu.ac.in/conf/wildre7/index.jsp
 
-#Shard Task Dates
+# Shard Task Dates
 ```
 Dec 22, 2023: [Registration](https://forms.gle/HVRK1W1hHqBwtgpu6)
 Jan 09, 2024: Train and Validation Data set Release [to get the data please register]
