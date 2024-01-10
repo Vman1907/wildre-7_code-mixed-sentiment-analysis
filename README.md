@@ -8,12 +8,11 @@ The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan la
 Sentiment analysis stands as a classic challenge in computational linguistics, demonstrating a profound impact on various real-world applications.  While sentiment analysis as a field has been expanding, and numerous shared tasks have been organised from time to time, some of them are (Patra et al., 2016) ( Patwa et al., 2020), (Chakravarthi et al., 2021), (Debasis et al., 2022),  (Chakravarthi et al., 2022), (Premjith et al., 2023) (Hedge et al., 2023) and so on. However, none of these shared tasks focused on code-mixed closely related low-resource Indo-Aryan languages. Systems have made remarkable progress in setting new performance standards, but the effectiveness of sentiment prediction in the context of code-mixed data still needs to be improved. This limitation is primarily attributed to the variability in language availability and the quality of training data, which directly impacts the precision of sentiment analysis.
 
 ## Task Description
-
 This shared task addresses the complexities of code-mixed data from less-resourced similar languages and focuses on sentiment analysis. The task builds on code-mixed sentiment analysis but introduces language pairs and triplets of less-resourced closely related languages, Magahi-Hindi-English, Maithili-Hindi, Bangla-English, and Hindi-English. These four languages come from the Indo-Aryan language family and are spoken in eastern India. Keeping a record of the challenges of processing closely related languages in code-mixed and low-resourced settings. We challenge the participants to explore using different Machine learning and Deep learning approaches to train the model on the given training and validation dataset while testing on a surprise language. In this context, we will provide Hindi-English, Bangla-English and Magahi-Hindi-English datasets for training and validation. This task will allow the participants to use any approach to train their model but robust enough to perform on a closely related language dataset. This would also allow us to understand the language representation in various code-mixed settings and the speakers' preference of language to express their emotions in each language pair.
 
 ## Data
 
-For Track 1 we use the 
+
 
 ## Evaluation 
 The shared task is hosted on CodaLab. The standard evaluation metrics for evaluating sytems will be as follows. We will use F1 averaged across the positives, negatives, neutral and mixed. The final ranking would be the average F1 score. However, we will release Precision and Recall across the four classes for a detailed discussion and error analysis. Each participating team will initially have access to the training and Validation data only. Later, test data will be released along with the surprised language. 
@@ -27,8 +26,11 @@ The evaluation will be in two different Tracks:
   4. Combined all the language pairs (1+2+3)
 
 **B. Track 2:** Given unlabelled test data for the code-mixed Maithili-Hindi-English language pair leverage any or all of the available training datasets in Track 1 to determine the sentiment of a comment in the target language. 
+
 ## Submission Format
 We will ask the participants to submit their predictions in a specified format. 
+
+
 ## Paper submission 
 Participants will be invited to describe their system in a paper for the WILDRE workshop proceedings. The task organisers will write an overview paper that describes the task and summarises the different approaches taken, and analyses their results. 
 
