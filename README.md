@@ -26,7 +26,7 @@ The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan la
 |2022 Mai vhi kon kon iss song ko Sunna Raha hai|Positive|
 
 ## Evaluation 
-<p align="justify"> The shared task is hosted on CodaLab. The standard evaluation metrics for evaluating sytems will be as follows. We will use F1 averaged across the positives, negatives, neutral and mixed. The final ranking would be the average F1 score. However, we will release Precision and Recall across the four classes for a detailed discussion and error analysis. Each participating team will initially have access to the training and Validation data only. Later, test data will be released along with the surprised language. We will make no distinction between constrained and unconstrained systems, but the participants are advised to report the additional resources used for each submission.</p>
+<p align="justify"> The shared task is hosted on CodaLab. The standard evaluation metrics for evaluating and ranking the teams will be the average F1 score. However, We will release F1 score, Precision and Recall across the four classes for a detailed discussion and error analysis. Each participating team will initially have access to the training and Validation data only. Later, test data will be released along with the surprised language. We will make no distinction between constrained and unconstrained systems, but the participants are advised to report the additional resources used for each submission.</p>
 
 The evaluation will be in two different Tracks:
 
