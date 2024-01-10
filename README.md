@@ -30,24 +30,24 @@ The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan la
 
 The evaluation will be in two different Tracks:
 
-**A. Track 1:** Given training and validation data in a target language pairs, determine the polarity of the comment in the given code-mixed pairs (positive, negative , neutra or mixed).
+**A. Track 1:** Given training and validation data to determine the polarity (positive, negative , neutra or mixed) of the comment in the same code-mixed setting.
   1. Hindi-English
   2. Magahi-Hindi-English
   3. Bangla-English
   4. Combined all the language pairs (1+2+3)
 
-**B. Track 2:** Given unlabelled test data for the code-mixed Maithili-Hindi-English language pair leverage any or all of the available training datasets in Track 1 to determine the sentiment of a comment in the target language. 
+**B. Track 2:** Given unlabelled test data for the code-mixed Maithili language (Maithi-Hindi-English) leverage any or all of the available training datasets in Track 1 to determine the sentiment of a comment in the target language. 
 
-**NB!** The given dataset is divided into the train, validate and test sets with the ratio of 70:15:15. However, for the fourth part of Track 1 (Combined all the language pairs), evaluation, combine the provided training and validation dataset of each language pair as one and train the model.
+**NB!** The dataset are divided into the train, validation and test sets with the ratio of 70:15:15. However, for the fourth part of Track 1 (Combined all the language pairs), combine the provided training and validation dataset of each code-mixed language to train the model.
 
 ## Submission Format
 We will ask the participants to submit their predictions in a specified format. 
 
 
 ## Paper submission 
-Participants will be invited to describe their system in a paper for the WILDRE workshop proceedings. The task organisers will write an overview paper that describes the task and summarises the different approaches taken, and analyses their results. 
+Participants will be invited to describe their system in a paper for the WILDRE7 workshop proceedings. The task organisers will write an overview paper describing the task, summarising the approaches taken, and analyse their results. 
 
-Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries used to develop the system. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
+Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
 
 # Shard Task Dates
 ```
