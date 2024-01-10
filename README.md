@@ -1,6 +1,6 @@
 ## Shared Task on Code-mixed Less-resourced Sentiment Analysis for Indo-Aryan Languages
 
-The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan languages Shared Task](https://github.com/wildre-workshop/wildre-7_code-mixed-sentiment-analysis/) is a part of the [7th Workshop on Indian Language Data: Resources and Evaluation (WILDRE-7)].
+The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan languages Shared Task](https://github.com/wildre-workshop/wildre-7_code-mixed-sentiment-analysis/) is a part of the 7th Workshop on Indian Language Data: Resources and Evaluation (WILDRE-7).
 
 ## Introduction: 
 <p align="justify"> Code-mixing, the dynamic interplay of multiple languages within a single discourse, is a widespread linguistic phenomenon observed in multilingual societies. Code-mixing is particularly intriguing when observed in closely related languages. In such linguistic scenarios, where language boundaries are blurred, code-mixing becomes a dynamic expression of linguistic fluidity. Closely related languages share lexical and syntactic similarities, allowing for seamless transitions between them in communication. This phenomenon reflects the intertwined linguistic histories and presents a rich tapestry of expression. The nuances of code-mixing in closely related languages highlight the intricate ways in which linguistic diversity is woven into everyday discourse, showcasing the versatility and adaptability of language in diverse linguistic landscapes. The pervasive use of the Internet and social media platforms has led to the digital availability of most languages. This digital accessibility has paved the way for a myriad of artificial intelligence (AI) applications. Among these applications, sentiment analysis, machine translation, and hateful content detection stand out. Despite the increasing digital availability of languages due to the Internet and social media, the need for curated datasets for developing AI applications in many languages remains a significant challenge. Notably, numerous Indo-Aryan languages have been underrepresented in terms of linguistic resources. In recent years, demand has increased to create code-mixed and under-resourced Indo-Aryan languages. However, the effectiveness of existing natural language processing (NLP) techniques in utilizing these datasets and the need for novel techniques present key research areas. Understanding the applicability of current NLP methods and innovating new approaches will be crucial in maximizing the potential impact of these datasets across a spectrum of AI applications. 
@@ -49,18 +49,23 @@ March 28, 2024: Paper notification of acceptance
 ```
 
 ## Important Links
-[**Registration**](https://forms.gle/HVRK1W1hHqBwtgpu6)
-[**Worshop Page**](http://sanskrit.jnu.ac.in/conf/wildre7/index.jsp)
+[**Registration**](https://forms.gle/HVRK1W1hHqBwtgpu6) <br>
+[**Worshop Page**](http://sanskrit.jnu.ac.in/conf/wildre7/index.jsp)<br>
 
 ## Task Organizers 
 
 * **Priya Rani**, SFI Centre for Research and Training in AI, Data Science Institute, University of Galway 
 * **Gaurav Negi**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
-* **Shardul Suryawanshi**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
 * **Saroj Jha**, Indian Institute of Technology, Patna, India
+* **Shardul Suryawanshi**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway 
 * **John P. McCrae**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 * **Paul Buitelaar**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
 
+**Overview**
+* **Atul Kr. Ojha**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
+* **Girish Nath Jha**, School of Sanskrit and indic Studies, Jawaharlal Nehru University
+* **Sobha L.**
+* **Kalika Bali**, Microsoft Reseach, India
 
 ## References 
 
