@@ -38,16 +38,16 @@ The evaluation will be in two different Tracks:
 
 **B. Track 2:** Given unlabelled test data for the code-mixed Maithili language (Maithi-Hindi-English) leverage any or all of the available training datasets in Track 1 to determine the sentiment of a comment in the target language. 
 
-**NB!** The dataset are divided into the train, validation and test sets with the ratio of 70:15:15. However, for the fourth part of Track 1 (Combined all the language pairs), combine the provided training and validation dataset of each code-mixed language to train the model.
+<p align="justify"> **NB!** The dataset are divided into the train, validation and test sets with the ratio of 70:15:15. However, for the fourth part of Track 1 (Combined all the language pairs), combine the provided training and validation dataset of each code-mixed language to train the model. </p>
 
 ## Submission Format
 We will ask the participants to submit their predictions in a specified format. 
 
 
 ## Paper submission 
-Participants will be invited to describe their system in a paper for the WILDRE7 workshop proceedings. The task organisers will write an overview paper describing the task, summarising the approaches taken, and analyse their results. 
+<p align="justify"> Participants will be invited to describe their system in a paper for the WILDRE7 workshop proceedings. The task organisers will write an overview paper describing the task, summarising the approaches taken, and analyse their results. 
 
-Paper submission instructions will be the same as for the workshop. Each team participating in the shared task is expected to submit a paper of 4 to 8 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. 
+Paper submission instructions will be the same as for the [workshop](http://sanskrit.jnu.ac.in/conf/wildre7/index.jsp). Each team participating in the shared task is expected to submit a system description paper of 4 to 5 pages, plus additional pages for references, formatted according to the workshop guidelines. The paper should describe the system and the resources used along with the libraries. The methodology/strategy should be documented in such a way that the readers and other researchers are able to replicate the work from the system description in the paper. </p>
 
 # Shard Task Dates
 ```
@@ -75,8 +75,8 @@ March 28, 2024: Paper notification of acceptance
 
 **Overview**
 * **Atul Kr. Ojha**, Insight SFI Research Centre for Data Analytics, Data Science Institute, University of Galway
-* **Girish Nath Jha**, School of Sanskrit and indic Studies, Jawaharlal Nehru University
-* **Sobha L.**
+* **Girish Nath Jha**, Chairman, Commission for Scientific and Technical Terminology, MoE, GOI (on deputation from Jawaharlal Nehru University, India)
+* **Sobha L.**, AU-KBC, Anna University
 * **Kalika Bali**, Microsoft Reseach, India
 
 ## References 
