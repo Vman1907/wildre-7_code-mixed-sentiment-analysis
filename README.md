@@ -104,4 +104,4 @@ Please see the [LICENSE](https://github.com/wildre-workshop/wildre-7_code-mixed-
 
 # Acknowledgments
 
-We would like to thank [Science Foundation Ireland (SFI)](https://www.sfi.ie/) grant number [(SFI/12/RC/2289_ P2 Insight _ 2)](https://www.insight-centre.org/) and [SFI/18/CRT/6223](https://www.crt-ai.ie/).
+We would like to thank [Science Foundation Ireland (SFI)](https://www.sfi.ie/) grant number [SFI/12/RC/2289_ P2 Insight _ 2](https://www.insight-centre.org/) and [SFI/18/CRT/6223](https://www.crt-ai.ie/).
