@@ -95,7 +95,7 @@ March 28, 2024: Paper notification of acceptance
 
 8. Asha Hegde, Bharathi Raja Chakravarthi, Hosahalli Lakshmaiah Shashirekha, Rahul Ponnusamy, Subalalitha Cn, Lavanya S K, Thenmozhi D., Martha Karunakar, Shreya Shreeram, and Sarah Aymen. 2023. Findings of the Shared Task on Sentiment Analysis in Tamil and Tulu Code-Mixed Text. In Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages, pages 64–71, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
-9. Md Nishat Raihan, Dhiman Goswami, Antara Mahmud, Antonios Anastasopoulos, Marcos Zampieri.2023. SentMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Sentiment Analysis. In Proceedings of the First Workshop in South East Asian Language Processing, pages 79-84, Nusa Dua, Bali. https://aclanthology.org/2023.sealp-1.6
+9. Md Nishat Raihan, Dhiman Goswami, Antara Mahmud, Antonios Anastasopoulos, Marcos Zampieri. 2023. SentMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Sentiment Analysis. In Proceedings of the First Workshop in South East Asian Language Processing, pages 79-84, Nusa Dua, Bali. https://aclanthology.org/2023.sealp-1.6
 
 
 # License
