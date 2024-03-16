@@ -81,7 +81,7 @@ March 28, 2024: Paper notification of acceptance
 
 ## References 
 
-1. Patra, Braja Gopal, Dipankar Das, Amitava Das and R. Rajendra Prasath. 2015. Shared Task on Sentiment Analysis in Indian Languages (SAIL) Tweets - An Overview. In: Prasath, R., Vuppala, A., Kathirvalavakumar, T. (eds) Mining Intelligence and Knowledge Exploration. MIKE 2015. Lecture Notes in Computer Science(), vol 9468. Springer, Cham. https://doi.org/10.1007/978-3-319-26832-3_61
+1. Patra, Braja Gopal, Dipankar Das, Amitava Das and R. Rajendra Prasath. 2015. Shared Task on Sentiment Analysis in Indian Languages (SAIL) Tweets - An Overview. In: Prasath, R., Vuppala, A., Kathirvalavakumar, T. (eds) Mining Intelligence and Knowledge Exploration. MIKE 2015. Lecture Notes in Computer Science, vol 9468. Springer, Cham. https://doi.org/10.1007/978-3-319-26832-3_61
 
 2. Parth Patwa, Gustavo Aguilar, Sudipta Kar, Suraj Pandey, Srinivas PYKL, Björn Gambäck, Tanmoy Chakraborty, Thamar Solorio, and Amitava Das. 2020. SemEval-2020 Task 9: Overview of Sentiment Analysis of Code-Mixed Tweets. In Proceedings of the Fourteenth Workshop on Semantic Evaluation, pages 774–790, Barcelona (online). International Committee for Computational Linguistics.
 
@@ -95,7 +95,7 @@ March 28, 2024: Paper notification of acceptance
 
 8. Asha Hegde, Bharathi Raja Chakravarthi, Hosahalli Lakshmaiah Shashirekha, Rahul Ponnusamy, Subalalitha Cn, Lavanya S K, Thenmozhi D., Martha Karunakar, Shreya Shreeram, and Sarah Aymen. 2023. Findings of the Shared Task on Sentiment Analysis in Tamil and Tulu Code-Mixed Text. In Proceedings of the Third Workshop on Speech and Language Technologies for Dravidian Languages, pages 64–71, Varna, Bulgaria. INCOMA Ltd., Shoumen, Bulgaria.
 
-9. Md Nishat Raihan, Dhiman Goswami, Antara Mahmud, Antonios Anastasopoulos, Marcos Zampieri.2023.SentiMix-3L: A bangls-English-Hindi code-mixed Dataset for Sentiment Analysis. In Proceedings of The First Workshop in South East Asian Language Processing. Nusa Dua, Bali.
+9. Md Nishat Raihan, Dhiman Goswami, Antara Mahmud, Antonios Anastasopoulos, Marcos Zampieri.2023. SentMix-3L: A Novel Code-Mixed Test Dataset in Bangla-English-Hindi for Sentiment Analysis. In Proceedings of the First Workshop in South East Asian Language Processing, pages 79-84, Nusa Dua, Bali. https://aclanthology.org/2023.sealp-1.6
 
 
 # License
