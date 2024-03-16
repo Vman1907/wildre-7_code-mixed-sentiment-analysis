@@ -14,7 +14,7 @@ The [Code-mixed Less-Resourced Sentiment analysis (Code-mixed) for Indo-Aryan la
 ## Data
  We will provide annotated data for code-mixed languages (Magahi-Hindi-English, Bangla-English-Hindi, Hindi-English). Each code-mixed comment/sentence in Magahi-Hindi-English and Hindi-English is labeled with four sentiment labels (Positive, Negative, Neutral or Mixed). However, the Bangla-English-Hindi is labelled with only three sentiment labels (positive, negative or neutral). The data for Magahi-Hindi-English and Hindi English is collected from various YouTube channels and were annotated with the help of native speakers of the language. For Bangla-English code-mixed data set we are using [**SentMix-3L**](https://github.com/LanguageTechnologyLab/SentMix-3L) dataset (Raihan, et al., 2023). 
 
-**NB !** In addition to this, the shared task allows participants to use external resources as long as they are openly available and can be, in theory, used by other participants for research purposes. In case participants decide to use external resources they should use proper citation and provide the details of the dataset in the system description paper.
+**NB!** In addition to this, the shared task allows participants to use external resources as long as they are openly available and can be, in theory, used by other participants for research purposes. In case participants decide to use external resources they should use proper citation and provide the details of the dataset in the system description paper.
 
 #### Data Format
 |sentence|sentiment|
