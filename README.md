@@ -54,9 +54,9 @@ Paper submission instructions will be the same as for the [workshop](http://sans
 Dec 22, 2023: Registration- https://forms.gle/HVRK1W1hHqBwtgpu6
 Jan 10, 2024: Train and Validation Data set Release [to get the data please register]
 Feb 15, 2024: Test Set Release
-Feb 23, 2024: System Submission Due
+Feb 25, 2024: System Submission Due
 Feb 29, 2024: System Results
-March 15, 2024: System Description Paper Due
+March 18, 2024: System Description Paper Due
 March 28, 2024: Paper notification of acceptance
 ```
 
